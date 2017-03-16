@@ -8,3 +8,6 @@ loupe-api
 
 The Loupe API is a web service for proifiling Linked Data and currently three operations are available as illustrated in following figure.
 
+![Swagger Docs](https://raw.githubusercontent.com/nandana/loupe-api/master/src/main/resources/img/api-docs.png)
+
+Loupe API is available online at [http://api.loupe.linkeddata.es/](http://api.loupe.linkeddata.es/)
