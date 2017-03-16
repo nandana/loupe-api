@@ -1,0 +1,15 @@
+sudo: false
+language: java
+jdk:
+- oraclejdk8
+
+notifications:
+  email:
+    recipients:
+    - nandana.cse@gmail.com
+    on_success: change
+    on_failure: always
+    
+cache:
+  directories:
+  - "$HOME/.m2/repository"
